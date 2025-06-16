@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1e1bd0-4585-47ba-b2e0-0e42b8145e6b" name="Changes" comment="">
+    <list default="true" id="ba1e1bd0-4585-47ba-b2e0-0e42b8145e6b" name="Changes" comment="nig push">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/FirstDatabase.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWOOP1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWOOP2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MemoryGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Chain_Implementation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_Chain_Implementation/number_array.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/create_db_sql.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hw11.py" afterDir="false" />
@@ -20,12 +25,14 @@
       <change afterPath="$PROJECT_DIR$/hw3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hw6.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hw9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_fast_api.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imdb_top_1000.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sqlTry.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sqlite_lib.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test_calculator.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/githubPY.py" beforeDir="false" afterPath="$PROJECT_DIR$/githubPY.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +48,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mang0Fish&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mang0Fish/hw11pythonDesktop.git&quot;,
+    &quot;accountId&quot;: &quot;07a37382-9093-456e-b853-905c2c90e81b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -51,27 +71,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_db.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MemoryGame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.blankEmp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.create_db_sql.executor&quot;: &quot;Run&quot;,
-    &quot;Python.excercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.sqlTry.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sqlite_lib.executor&quot;: &quot;Run&quot;,
-    &quot;Python.try3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/BankExercise&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_db.py.executor": "Run",
+    "Python.HWAI4.executor": "Run",
+    "Python.HWAISCAN.executor": "Run",
+    "Python.HWANN.executor": "Run",
+    "Python.HWKNN.executor": "Run",
+    "Python.HWLIN1.executor": "Run",
+    "Python.HWLIN2.executor": "Run",
+    "Python.HWOOP1.executor": "Run",
+    "Python.HWOOP2.executor": "Run",
+    "Python.HWPesah.executor": "Run",
+    "Python.HW_DEC_TREE.executor": "Run",
+    "Python.HW_RANDOM_FOREST.executor": "Run",
+    "Python.HWlog.executor": "Run",
+    "Python.MemoryGame.executor": "Run",
+    "Python.OOP14.executor": "Run",
+    "Python.array_handler.executor": "Run",
+    "Python.blankEmp.executor": "Run",
+    "Python.card.executor": "Run",
+    "Python.card_rank.executor": "Run",
+    "Python.card_suit.executor": "Run",
+    "Python.create_db_sql.executor": "Run",
+    "Python.deck.executor": "Debug",
+    "Python.dice.executor": "Run",
+    "Python.excercise.executor": "Run",
+    "Python.first_question.executor": "Run",
+    "Python.githubPY.executor": "Run",
+    "Python.hw11.executor": "Run",
+    "Python.hw3.executor": "Run",
+    "Python.hw6.executor": "Run",
+    "Python.hw9.executor": "Run",
+    "Python.hw_fast_api.executor": "Run",
+    "Python.hw_nlp_server.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.second_question.executor": "Run",
+    "Python.sqlTry.executor": "Run",
+    "Python.sqlite_lib.executor": "Run",
+    "Python.try3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/BankExercise",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\pythonProject1" />
@@ -79,35 +124,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\pythonProject1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="hw3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.hw3" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -125,6 +141,23 @@
       <option name="presentableId" value="Default" />
       <updated>1720461423768</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="nig">
+      <option name="closed" value="true" />
+      <created>1733583058426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1733583058426</updated>
+    </task>
+    <task id="LOCAL‎-00002" summary="nig push">
+      <option name="closed" value="true" />
+      <created>1733583215738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1733583215738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +170,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nig" />
+    <MESSAGE value="nig push" />
+    <option name="LAST_COMMIT_MESSAGE" value="nig push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
