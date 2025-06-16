@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba1e1bd0-4585-47ba-b2e0-0e42b8145e6b" name="Changes" comment="nig push">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstDatabase.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HWOOP1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HWOOP2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MemoryGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Chain_Implementation/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Chain_Implementation/number_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_db_sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw15.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_fast_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imdb_top_1000.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlTry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlite_lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/githubPY.py" beforeDir="false" afterPath="$PROJECT_DIR$/githubPY.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +85,7 @@
     "Python.sqlite_lib.executor": "Run",
     "Python.try3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/User/PycharmProjects/BankExercise",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
